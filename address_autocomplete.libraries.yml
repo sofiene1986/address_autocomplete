@@ -3,5 +3,5 @@ address_autocomplete:
     js/address_autocomplete.js: {}
   dependencies:
     - core/jquery
-    - core/jquery.once
+    - core/once
     - core/drupal
