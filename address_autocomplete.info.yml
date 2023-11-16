@@ -1,0 +1,11 @@
+name: Address Autocomplete
+type: module
+description: 'Provides an autocomplete feature for address fields'
+core_version_requirement: ^8.8 || ^9 || ^10
+package: Field types
+configure: address_autocomplete.settings
+dependencies:
+  - address:address
+
+version: '1.0-mpa'
+project: 'address_autocomplete'
